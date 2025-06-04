@@ -15,9 +15,11 @@ Sou desenvolvedor com foco em **Python**, **JavaScript**, **HTML** e **CSS**.
 
 ## 📊 Minhas Estatísticas no GitHub
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=manodid&show_icons=true&theme=radical&rank_icon=github&hide_border=false)
+![Carlos Edu GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlosedu-dev&show_icons=true&theme=radical)
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=manodid&layout=compact&theme=radical&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosedu-dev&layout=compact&theme=radical)
+
+
 
 ---
 
