@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou o Carlos!
+# 👋 Olá, sou o Carlos!
 
-Sou desenvolvedor com foco em **Python**, **JavaScript**, **HTML** e **CSS**.
+Eu Faço Programa
 
 ---
 
